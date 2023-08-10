@@ -1,32 +1,5 @@
-# project_template
-This is a file structure I use for my research project. Its advantage is that one can use it recursively by copying the same structure again into the folder 03_projects in order to add subprojects. This folder may be renamed "studies" within a subproject folder.
+# 02_talks
+The main reason why this folder is second is that we use talks as a foundation for writing. So start with structuring an idea as a talk and build e.g. a paper from there.
 
-## Example
+Note: You may want to delete this README file after personal files have been added.
 
-```
-MainProjectTemplate    <-- rename according to project title
-| 01_literature
-| 02_talks
-| 03_projects
-| | SubProject_1_Template    <-- rename according to project title
-| | | 01_literature
-| | | 02_talks
-| | | 03_studies
-| | | 04_writeup
-| | | 05_staff
-| | | 4Qs_SubProject_1    <-- rename according to project title
-| | SubProject_2_Template    <-- rename according to project title
-| | | 01_literature
-| | | | 01_consume
-| | | | 02_engage
-| | | 02_talks
-| | | 03_studies
-| | | | 01_data
-| | | | 02_analysis
-| | | 04_writeup
-| | | 05_staff
-| | | 4Qs_SubProject_2    <-- rename according to project title
-| 04_writeup
-| 05_staff
-| 4Qs_MainProject    <-- rename according to project title
-```
