@@ -1,32 +1,4 @@
-# project_template
-This is a file structure I use for my research project. Its advantage is that one can use it recursively by copying the same structure again into the folder 03_projects in order to add subprojects. This folder may be renamed "studies" within a subproject folder.
+# 01_literature/01_engage/
+Create Notes (preferably markdown files) as working documents for a corresponding resource (.pdf file) from the 01_consume folder. Use the same name as for the file from 01_consume source file and add anything of importance. I like to add the source file as a hyperlink [[<filename>]|title]
 
-## Example
-
-```
-MainProjectTemplate    <-- rename according to project title
-| 01_literature
-| 02_talks
-| 03_projects
-| | SubProject_1_Template    <-- rename according to project title
-| | | 01_literature
-| | | 02_talks
-| | | 03_studies
-| | | 04_writeup
-| | | 05_staff
-| | | 4Qs_SubProject_1    <-- rename according to project title
-| | SubProject_2_Template    <-- rename according to project title
-| | | 01_literature
-| | | | 01_consume
-| | | | 02_engage
-| | | 02_talks
-| | | 03_studies
-| | | | 01_data
-| | | | 02_analysis
-| | | 04_writeup
-| | | 05_staff
-| | | 4Qs_SubProject_2    <-- rename according to project title
-| 04_writeup
-| 05_staff
-| 4Qs_MainProject    <-- rename according to project title
-```
+Note: You may want to delete this README file after personal files have been added.
