@@ -30,3 +30,5 @@ MainProjectTemplate    <-- rename according to project title
 | 05_staff
 | 4Qs_MainProject    <-- rename according to project title
 ```
+## Note
+README.md files have been added in order for GitHub to create "empty" folders. All of these README.md files may be deleted when you initiated your project and filled each folder with your personal data.
