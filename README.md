@@ -2,6 +2,7 @@
 This is a file structure I use for my research project. Its advantage is that one can use it recursively by copying the same structure again into the folder 03_projects in order to add subprojects. This folder may be renamed "studies" within a subproject folder.
 
 ## Example
+
 ```
 MainProjectTemplate    <-- rename according to project title
 | 01_literature
